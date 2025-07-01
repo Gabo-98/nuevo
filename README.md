@@ -134,7 +134,7 @@ El sistema incluye datos mock realistas:
 - **3 clientes** minoristas y mayoristas
 - **3 órdenes** en diferentes estados
 
-## 🌐 Despliegue en Netlify
+## 🌐 Apto para despliegue en Netlify
 
 ### Configuración Automática
 1. Conectar repositorio Git a Netlify
